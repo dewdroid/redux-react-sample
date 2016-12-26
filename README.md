@@ -1,4 +1,4 @@
-# React Redux demo project
+# Redux+React sample project
 
 Heavily based on [react-redux-starter-kit](https://github.com/davezuko/react-redux-starter-kit)
 
@@ -15,7 +15,7 @@ Heavily based on [react-redux-starter-kit](https://github.com/davezuko/react-red
 ## Getting Started
 
 ```bash
-$ git clone https://github.com/dewdroid/react-redux-currency.git <my-project-name>
+$ git clone https://github.com/dewdroid/redux-react-sample.git <my-project-name>
 $ cd <my-project-name>
 $ npm install    # Install project dependencies
 $ npm start      # Compile and launch
